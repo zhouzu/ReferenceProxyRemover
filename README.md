@@ -7,8 +7,8 @@ Universal ReferenceProxy Remover.
 
 - Before
 
-![alt text](https://github.com/CursedLand/ReferenceProxyRemover/blob/master/Before.PNG)
+![alt text](https://github.com/CursedLand/ReferenceProxyRemover/blob/master/Before.jpg)
 
 - After
 
-![alt text](https://github.com/CursedLand/ReferenceProxyRemover/blob/master/After.PNG)
+![alt text](https://github.com/CursedLand/ReferenceProxyRemover/blob/master/After.jpg)
